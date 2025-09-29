@@ -16,7 +16,7 @@
 ---
 
 ### 📫 Connect with Me
-<p align="center" style="display:flex; gap:15px; align-items:start;">
+<p align="start" style="display:flex; gap:15px;">
   <a href="https://www.instagram.com/bayrmsvmm/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
   </a>
