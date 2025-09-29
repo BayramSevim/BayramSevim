@@ -16,7 +16,7 @@
 ---
 
 ### 📫 Connect with Me
-<p align="center" style="display:flex; gap:15px; align-items:center;">
+<p align="center" style="display:flex; gap:15px; align-items:start;">
   <a href="https://www.instagram.com/bayrmsvmm/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
   </a>
@@ -38,7 +38,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
