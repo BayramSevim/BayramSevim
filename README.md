@@ -82,5 +82,4 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bayramsevim&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayramsevim&theme=tokyonight" alt="streak" height="160"/>
 </p>
