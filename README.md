@@ -12,7 +12,7 @@
 - 🗄️ Working with **SQL** and **NoSQL databases** (PostgreSQL, MongoDB, etc.)
 - 🧪 Writing **testable and maintainable code** with unit and integration tests
 - 🐳 Exploring **Docker**, containerization, and modern **DevOps practices**
-- 📡 Experience with **event-driven architecture** using tools like **Apache Kafka** and ** RabbitMQ **
+- 📡 Experience with **event-driven architecture** using tools like **Apache Kafka** and **RabbitMQ**
 - 📊 Experience with **tracking and observability tools** such as **Prometheus** and **Grafana**.
 - 🎨 Also experienced in **React** for building modern and interactive user interfaces
 - 📈 Always aiming to build production-ready, high-performance applications
