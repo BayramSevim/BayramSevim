@@ -21,10 +21,7 @@
 <p align="start" style="display:flex; gap:15px;">
   <a href="https://www.instagram.com/bayrmsvmm/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
-  </a>
-  <a href="https://x.com/Iambayramm" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/960px-X_logo.jpg" alt="X / Twitter" width="40"/>
-  </a>
+  </a> 
   <a href="https://wa.me/+905538357336" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40"/>
   </a>
