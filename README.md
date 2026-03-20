@@ -1,17 +1,19 @@
 <h1 align="center">👋 Hi, I'm Bayram</h1>
-<h3 align="center">💻 A passionate developer who loves continuous learning and building impactful projects</h3>
+<h3 align="center">💻 A backend-focused developer passionate about building scalable and robust systems</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Always eager to learn **new technologies** and improve my skills  
-- 💡 Specialized in **React** and modern **frontend development**  
-- ⚙️ Experienced in building **scalable web applications** and **microservices**  
-- 🔗 Strong background in **real-time applications** with **SignalR** and **WebSockets**  
-- 🗄️ Comfortable working with both **SQL** and **NoSQL databases**  
-- 🛠️ Passionate about **clean code**, **design patterns**, and writing **testable software**  
-- 📚 Constantly exploring **DevOps practices** and containerized deployments with **Docker**  
-- ⚡ Coffee keeps my code running ☕  
+
+- 🌱 Continuously improving myself in **Java** and **Spring Boot ecosystem**
+- ⚙️ Focused on developing **scalable backend systems** and **microservices architectures**
+- 🧠 Interested in **clean architecture**, **hexagonal architecture**, and **design patterns**
+- 🔗 Experienced in building **real-time systems** using **SignalR**, **WebSockets**, and event-driven approaches
+- 🗄️ Working with **SQL** and **NoSQL databases** (PostgreSQL, MongoDB, etc.)
+- 🧪 Writing **testable and maintainable code** with unit and integration tests
+- 🐳 Exploring **Docker**, containerization, and modern **DevOps practices**
+- 📈 Always aiming to build production-ready, high-performance applications
+- ⚡ Coffee keeps my services running ☕
 
 ---
 
