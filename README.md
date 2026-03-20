@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello everyone, I'm Bayram</h1>
-<h3 align="center">💻 A backend-focused developer passionate about building scalable and robust systems</h3>
+<h3 align="center">💻 A fullstack-focused developer passionate about building scalable and robust systems</h3>
 
 ---
 
